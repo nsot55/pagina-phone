@@ -1,4 +1,5 @@
 @import url("style.css/header.css");
+@import url("styles/banner.css");
 :root{
     --fonte-principal: "Poppins";
 }
