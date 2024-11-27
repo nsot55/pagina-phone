@@ -1,5 +1,6 @@
 @import url("style.css/header.css");
 @import url("styles/banner.css");
+@import url("styles/carrossel.css");
 :root{
     --fonte-principal: "Poppins";
 }
